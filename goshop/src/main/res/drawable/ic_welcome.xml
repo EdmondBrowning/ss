@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/user_faceback_drawable" android:drawable="@drawable/ic_circle" />
+    <item android:id="@+id/user_face_drawable" android:drawable="@drawable/ic_icon" android:left="30dp" android:top="30dp" android:right="30dp" android:bottom="30dp" />
+</layer-list>

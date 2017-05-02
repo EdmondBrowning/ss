@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">MyShop</string>
+    <string name="json_test">{
+    "result": 1,
+    "data": [
+        {
+            "trendId": 1,
+            "comment": "dddddd",
+            "username": "Edmond",
+            "images": [
+                {
+                    "url": "ddd"
+                },
+                {
+                    "url": "dddd"
+                },
+                {
+                    "url": "dddd"
+                }
+            ]
+        },
+        {
+            "trendId": 2,
+            "comment": "hahah",
+            "username": "Browning",
+            "images": [
+                {
+                    "url": "ddd"
+                },
+                {
+                    "url": "dddd"
+                },
+                {
+                    "url": "dddd"
+                }
+            ]
+        }
+    ]
+}</string>
+    <string name="ip_address">192.168.1.111</string>
+    <string name="first">首页</string>
+    <string name="second">大家都在看</string>
+    <string name="third">购物车</string>
+    <string name="forth">我的</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+    </string>
+    <string name="action_settings">设置</string>
+    <string name="action_message">消息</string>
+
+    <string name="order">已下单</string>
+    <string name="wait_live">待直播</string>
+    <string name="living">直播中</string>
+    <string name="transit">运输中</string>
+    <string name="write">代评价</string>
+    <string name="my_order">我的订单</string>
+    <string name="all_order">全部订单</string>
+    <string name="my_tool">我的工具</string>
+    <string name="level">lv</string>
+    <string name="level_next">lv</string>
+    <string name="number">99</string>
+    <string name="version">1.0.0</string>
+    <string name="logo_script">It\'s the logo</string>
+    <string name="write_script">It\'s write</string>
+    <string name="transit_script">It\'s trasit</string>
+    <string name="living_script">It\'s living</string>
+    <string name="wait_live_script">It\'s wait live</string>
+    <string name="order_script">It\'s order</string>
+    <string name="chevron_right_script">It\'s chevron right</string>
+</resources>

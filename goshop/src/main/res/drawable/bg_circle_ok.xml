@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/mainColorDark">
+    <item_home>
+        <shape android:shape="oval">
+            <solid android:color="@color/mainColor" />
+            <corners android:radius="4dp" />
+            <padding android:bottom="5dp"
+                android:top="5dp"
+                android:left="5dp"
+                android:right="5dp"/>
+        </shape>
+    </item_home>
+    <item android:drawable="@drawable/rounded_circle_ok" />
+</ripple>

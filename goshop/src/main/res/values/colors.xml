@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="mainColor">#FF0000</color>
+    <color name="bottomColor">#ffffff</color>
+    <color name="noSelectColor">#3c3c3c</color>
+    <color name="selectColor">#FFFFFF</color>
+    <color name="lvColorVip">#FFFF00</color>
+    <color name="lvColor">#0000FF</color>
+
+    <color name="mainColorLight">#FFA0E1</color>
+    <color name="mainColorDark">#D01E6A</color>
+    <color name="select_no">#8c8c8c</color>
+    <color name="select_no_light">#acacac</color>
+    <color name="none">#00000000</color>
+</resources>
